@@ -1,0 +1,41 @@
+_repo: The-story-of-the-Iliad_74231
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Church, Alfred John
+    aliases:
+    - Church, Alfred J.
+    - Church, A. J.
+    birthdate: 1829
+    deathdate: 1912
+    gutenberg_agent_id: '2020'
+    url: http://www.gutenberg.org/2009/agents/2020
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_John_Church
+  - agent_name: Homer
+    alias: Όμηρος
+    birthdate: -750
+    deathdate: -650
+    gutenberg_agent_id: '705'
+    url: http://www.gutenberg.org/2009/agents/705
+    wikipedia: https://en.wikipedia.org/wiki/Homer
+description: Edited for school use.
+gutenberg_issued: '2024-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74231'
+language: en
+pgterms:marc905: 20240803142626church
+pgterms:marc906: '1920'
+pgterms:marc907: US
+production_note: Al Haines
+publication_note: '  $aNew York :$bThe Macmillan Company, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Achilles (Mythological character) -- Juvenile literature'
+- !lcsh 'Trojan War -- Juvenile literature'
+- !lcc 'PZ'
+- GITenberg
+title: The story of the Iliad
+url: http://www.gutenberg.org/ebooks/74231
